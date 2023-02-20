@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taoufikelma
-- 👀 I’m interested in the world of design
-- 🌱 I’m currently learning about ux/ui design
+- 👀 I’m interested in the world of coding
+- 🌱 I’m currently learning about software engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by my ig account, **t.aoufik_**
 
